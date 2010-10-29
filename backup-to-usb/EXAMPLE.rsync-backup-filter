@@ -1,0 +1,5 @@
+# Intent: Only backup ~/Documents/ and ~/.mozilla-thunderbird/
++ /Documents/
++ /.mozilla-thunderbird/
++ /.rsync-backup-filter
+- /*
