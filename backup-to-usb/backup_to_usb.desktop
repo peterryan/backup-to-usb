@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=Backup to USB drive
+Comment=Backup files to USB flash drive
+Categories=Utility;
+Icon=/usr/local/share/icons/backup_to_usb.svg
+Exec=/usr/local/bin/backup_to_usb.sh
+StartupNotify=false

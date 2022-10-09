@@ -1,0 +1,5 @@
+# Backup only ~/Documents and ~/.mozilla-thunderbird
++ /Documents/***
++ /.mozilla-thunderbird/***
++ .rsync-usbflash-filter
+- *

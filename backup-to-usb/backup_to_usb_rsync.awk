@@ -1,7 +1,7 @@
 {
-	if (index($0, "to-check=") > 0)
+	if (index($0, "to-chk=") > 0)
 	{
-		split($0, pieces, "to-check=")
+		split($0, pieces, "to-chk=")
 		split(pieces[2], term, ")");
 		split(term[1], division, "/");
 		print (1-(division[1]/division[2]))*100"%"
