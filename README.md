@@ -6,7 +6,7 @@ USB flash media. It uses `rsync` to do the copy and `zenity` for the GUI.
 To install, copy files to these locations:
 
  * `/usr/local/bin/backup_to_usb.sh`
- * `/usr/local/bin/backup_to_usb.awk`
+ * `/usr/local/bin/backup_to_usb_rsync.awk`
  * `/usr/local/share/icons/backup_to_usb.svg`
  * `/usr/local/share/applications/backup_to_usb.desktop`
 
